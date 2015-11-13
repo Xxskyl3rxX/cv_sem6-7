@@ -1,0 +1,88 @@
+body{
+
+	background-image:url(image/bo_play_pattern.png); /*appel de l'image de fond du site prise sur Subbtle Pattern*/
+	
+}
+
+
+article{
+
+	display: inline-block;
+	position: static;
+	vertical-align: top;
+	padding: 10px;
+	width: 30%;
+
+
+
+}
+
+.conteneur{
+	
+	width: 100%;
+	max-width: 960px;
+	padding: 10px;
+	border: 15px solid red; /*marge extèrieur*/
+
+
+}
+
+
+.text{
+	text-decoration: underline;
+	color: blue;
+
+}
+
+
+
+
+.text-right--1 {
+
+	text-align: right;
+	color: red;
+	
+	
+
+
+}
+
+
+.text-right--2{
+	text-align: right;
+	color: blue;
+	
+}
+
+
+
+ul{
+
+	list-style-type:  square;
+	color:#FFFFFF;
+
+}
+
+
+p{
+
+	padding: 10px; /*marge intérieur*/
+	color: red;
+
+
+}
+
+#deco{
+	
+	border-left: 10px solid blue;
+
+}
+
+
+address{
+
+	color: red;
+	text-align: right;
+
+
+}
